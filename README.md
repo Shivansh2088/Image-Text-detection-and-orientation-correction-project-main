@@ -1,0 +1,1 @@
+# Image-Text-detection-and-orientation-correction-project-main
